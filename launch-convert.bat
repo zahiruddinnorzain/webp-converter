@@ -16,6 +16,9 @@ echo #####################
 echo CONVERT IMAGE TO WEBP
 echo #####################
 
+del .\in\.gitkeep
+del .\out\.gitkeep
+
 set "input_dir=.\in"
 set "output_dir=.\out"
 
