@@ -3,14 +3,14 @@
 :: and save all the coverted file in the folder named out
 :: by @zahiruddinnorzain github
 
-echo  _                       _           
-echo | |                     | |          
-echo | |__   _____      _____| |__  _ __  
-echo | '_ \ / _ \ \ /\ / / _ \ '_ \| '_ \ 
-echo | |_) | (_) \ V  V /  __/ |_) | |_) |
-echo |_.__/ \___/ \_/\_/ \___|_.__/| .__/ 
-echo                               | |    
-echo                               |_|
+echo " _                       _           "
+echo "| |                     | |          "
+echo "| |__   _____      _____| |__  _ __  "
+echo "| '_ \ / _ \ \ /\ / / _ \ '_ \| '_ \ "
+echo "| |_) | (_) \ V  V /  __/ |_) | |_) |"
+echo "|_.__/ \___/ \_/\_/ \___|_.__/| .__/ "
+echo "                              | |    "
+echo "                              |_|    "
 
 echo #####################
 echo CONVERT IMAGE TO WEBP
@@ -31,3 +31,4 @@ echo ################
 echo ##### DONE #####
 echo ################
 echo by zahiruddinnorzain
+pause
